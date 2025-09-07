@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   
   # 🌟 fgfgfdg8
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=专业美观+%7C+易于定制+%7C+功能丰富;打造令人印象深刻的GitHub个人主页;提升个人品牌形象，展示专业技能;让你的个人主页脱颖而出)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=Stay Hungry, Stay Foolish)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="#模板介绍"><img src="https://img.shields.io/badge/模板介绍-FF5F6D?style=for-the-badge" alt="模板介绍"/></a>
@@ -192,7 +192,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <!-- 使用更美观的动态技能图标 -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,pytorch,linux,matlab,git,vscode,latex,github,docker,jekyll&perline=9" />
   
   <!-- 添加技能动画卡片 - 改进布局 -->
   
@@ -256,8 +256,14 @@ Here are some ideas to get you started:
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
 </h2>
 
-<!-- 贡献蛇形图 - 优化显示效果 -->
+
 <div align="center">
+<!--GitHub活动状况概况图 -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fgfgfdg8&show_icons=true&locale=en" alt="fgfgfdg8" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fgfgfdg8&" alt="fgfgfdg8" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fgfgfdg8&show_icons=true&locale=en&layout=compact" alt="fgfgfdg8" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fgfgfdg8" alt="fgfgfdg8" /></a></p>
+<!-- 贡献蛇形图 - 优化显示效果 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
