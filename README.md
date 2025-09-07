@@ -105,6 +105,7 @@ Here are some ideas to get you started:
 <h2 align="center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
   Community Contributions
+
 </h2>
 
 <!-- 统一卡片大小并调整比例 - 优化显示效果 -->
@@ -139,7 +140,7 @@ Here are some ideas to get you started:
 <!-- 添加项目按钮 -->
 <div align="center">
   <a href="https://github.com/fgfgfdg8?tab=repositories">
-    <img src="https://img.shields.io/badge/更多项目-查看全部-%23FF5F6D?style=for-the-badge&logo=github" alt="查看更多项目" />
+    <img src="https://img.shields.io/badge/More-All-%23FF5F6D?style=for-the-badge&logo=github" alt="More" />
   </a>
 </div>
 
