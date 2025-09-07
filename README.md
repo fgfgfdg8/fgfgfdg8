@@ -52,33 +52,34 @@ Here are some ideas to get you started:
   Research Interests
 </h2>
 
+<div align="center">
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td width="34%" valign="top">
 
-> #### 🔐 Software Security
-> - Fuzzing
-> - Automated Vulnerability Discovery
+### 🔐 **Software Security**
+- Fuzzing
+- Automated Vulnerability Discovery
 
 </td>
 <td width="34%" valign="top">
 
-> #### 📊 Artificial Intelligence
->
-> - LLM Application
-> - LLM Agent
-> - Computer Vision
+### 📊 **Artificial Intelligence**
+- LLM Application
+- LLM Agent
+- Computer Vision
 
 </td>
 <td width="35%" valign="top">
 
-> #### ⚙ Embedding Systems
-> - Raspberry Pi
-> - STM32 Series
+### ⚙ **Embedding Systems**
+- Raspberry Pi
+- STM32 Series
 
 </td>
 </tr>
 </table>
+</div>
 
 <!-- 技能展示 - 统一标题样式并调整图标对齐 -->
 <h2 align="center">
