@@ -13,25 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  
+
   # 👋 Hello，here is Fengyi Wu.
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=3600000&color=2C9CDF&center=true&vCenter=true&width=600&lines=Stay%20Hungry,%20Stay%20Foolish.)](https://git.io/typing-svg)
   
-  <!-- 添加动态波浪分隔符 -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Where there is light, there is shadow.&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Even the tiny specks of dust in the shadow can look up at the starry sky.&descAlignY=55" />
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Where%20there%20is%20light,%20there%20is%20shadow.&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Even%20the%20tiny%20specks%20of%20dust%20in%20the%20shadow%20can%20look%20up%20at%20the%20starry%20sky.&descAlignY=55" /> -->
+
 
   <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
   <p align="center">
     <p align="center">
     <a href="https://github.com/fgfgfdg8"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="mailto:fengyiwucs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://www.kaggle.com/brokenstreamer"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
     <a href="https://orcid.org/0009-0001-6953-9413"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-    <a href="https://www.linkedin.com/in/fengyi-wu-4076aa319/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://scholar.google.com/citations?user=dSfTKXcAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+    <a href="https://www.linkedin.com/in/fengyi-wu-4076aa319/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.kaggle.com/brokenstreamer"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
     
   </p>
@@ -98,9 +97,9 @@ Here are some ideas to get you started:
 <!-- 擅长领域标题 - 统一样式并对齐图标 -->
 
 <!-- 动态分隔符 - 使用更现代的设计 -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
-</div>
+</div> -->
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
@@ -167,9 +166,9 @@ Here are some ideas to get you started:
 <!-- 页脚 - 统一标题样式并对齐图标 -->
 
 <!-- 动态分隔符 -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
-</div>
+</div> -->
 
 <!-- 添加波浪动画页脚 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
