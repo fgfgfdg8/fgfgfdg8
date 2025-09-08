@@ -177,11 +177,11 @@ Here are some ideas to get you started:
 
 
 <!-- BLOG-POST-LIST:START -->
-- [【技术备忘录】程序调试环境配置](https://fgfgfdg8.github.io/posts/Binary_Debug_Setup/)
+- [【论文阅读笔记】PROMEFUZZ: A Knowledge-Driven Approach to Fuzzing Harness Generation with Large Language Models](https://fgfgfdg8.github.io/posts/PromeFuzz/)
+- [【技术备忘录】程序调试环境配置与使用](https://fgfgfdg8.github.io/posts/Binary_Debug_Setup/)
 - [【论文阅读笔记】CMASan: Custom Memory Allocator-aware Address Sanitizer](https://fgfgfdg8.github.io/posts/CMASan/)
 - [【技术备忘录】Ubuntu新机开荒配置](https://fgfgfdg8.github.io/posts/New_Ubuntu_Setup/)
 - [【论文阅读笔记】总目录](https://fgfgfdg8.github.io/posts/Paper_Reading_Notes/)
-- [【英语写作】 英语科技论文写作学习笔记](https://fgfgfdg8.github.io/posts/Technical_Writing/)
 <!-- BLOG-POST-LIST:END -->
 
 
