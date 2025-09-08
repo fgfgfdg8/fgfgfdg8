@@ -132,8 +132,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/fgfgfdg8/fgfgfdg8.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fgfgfdg8&repo=fgfgfdg8.github.io&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
-  <a href="https://github.com/fgfgfdg8/doctopus">
+  <a href="https://github.com/fgfgfdg8">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fgfgfdg8&repo=fgfgfdg8&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+  </a>
+  <a href="https://github.com/fgfgfdg8/ImageStage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fgfgfdg8&repo=ImageStage&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
 </div>
 
