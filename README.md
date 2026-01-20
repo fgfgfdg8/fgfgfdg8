@@ -180,11 +180,11 @@ Here are some ideas to get you started:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [【学习笔记】Linux 基本命令](https://fgfgfdg8.github.io/posts/Linux_Basic/)
 - [【技术备忘录】LLM Function Call踩坑记录](https://fgfgfdg8.github.io/posts/LLM_Func_Call/)
 - [【技术备忘录】Ubuntu下HTTPS网站部署记录](https://fgfgfdg8.github.io/posts/Https_Setup/)
 - [【论文阅读笔记】PROMEFUZZ: A Knowledge-Driven Approach to Fuzzing Harness Generation with Large Language Models](https://fgfgfdg8.github.io/posts/PromeFuzz/)
 - [【技术备忘录】程序调试环境配置与使用](https://fgfgfdg8.github.io/posts/Binary_Debug_Setup/)
-- [【论文阅读笔记】CMASan: Custom Memory Allocator-aware Address Sanitizer](https://fgfgfdg8.github.io/posts/CMASan/)
 <!-- BLOG-POST-LIST:END -->
 
 
